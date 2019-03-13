@@ -4,7 +4,7 @@
 
 Machine Learning Training using Python.
 
-K Nearest Neighbors
+K Nearest Neighbors - KNN
 
 This training was developed on Jupyter Notebook (Anaconda)
 
